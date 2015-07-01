@@ -1,2 +1,2 @@
 # Codechef
-Problems I was able to solve in Codeforces.
+Problems I was able to solve in Codechef.
